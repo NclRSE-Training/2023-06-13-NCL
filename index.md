@@ -6,10 +6,10 @@ country: "gb"
 language: "en"     
 latitude: "54.977840"        
 longitude: "-1.612920"       
-humandate: "May 16, 2023"    
+humandate: "June 13, 2023"    
 humantime: "09:00 - 17:00 UTC"    
-startdate: 2023-05-16
-enddate: 2023-05-16
+startdate: 2023-06-13
+enddate: 2023-06-13
 instructor: ["Dr. Jannetta Steyn", "Dr. Frances Turner", "Dr.Tiago Sousa Garcia"] 
 helper: ["TBA"]     
 email: ["jannetta.steyn@newcastle.ac.uk","michelle.gilbride@newcastle.ac.uk"]    
