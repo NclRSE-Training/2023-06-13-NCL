@@ -1,6 +1,6 @@
 ---
 layout: workshop      
-venue: "TBA"        
+venue: "Introduction to artificial neural networks in Python"        
 address: "Newcastle University"      
 country: "gb"      
 language: "en"     
